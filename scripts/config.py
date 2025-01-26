@@ -1,0 +1,4 @@
+VERT = '\033[92m'
+JAUNE = '\033[93m'
+ROUGE = '\033[91m'
+DEFAULT = '\033[0m'
