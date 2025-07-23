@@ -21,11 +21,11 @@ Quand le pendu est totalement terminé, alors vous avez perdu. A l'inverse, si v
 # Fonctionnement :
 
 - Vous aurez d'abord accès à un menu dans lequel vous choisirez si vous souhaitez afficher les statistiques des parties précédentes, ou jouer.
--Au départ, choisissez la langue dans laquelle vous souhaitez jouer (Français, Espagnol, Anglais, Allemand).
--A chaque tour, l'état du jeu est affiché : l'état du pendu, l'état du mot, les lettres déjà utilisées.
--A chaque tour, une lettre vous ait demandé, entrez en une, si elle est dans le mot, elle y sera indiqué, sinon le pendu se formera.
--A la fin de la partie, vous pouvez recommencer ou non une partie.
--Chaque partie est ensuite sauvegardée, retrouvez ses statistiques dans le menu de jeu.
+- Au départ, choisissez la langue dans laquelle vous souhaitez jouer (Français, Espagnol, Anglais, Allemand).
+- A chaque tour, l'état du jeu est affiché : l'état du pendu, l'état du mot, les lettres déjà utilisées.
+- A chaque tour, une lettre vous ait demandé, entrez en une, si elle est dans le mot, elle y sera indiqué, sinon le pendu se formera.
+- A la fin de la partie, vous pouvez recommencer ou non une partie.
+- Chaque partie est ensuite sauvegardée, retrouvez ses statistiques dans le menu de jeu.
 
 Suivez les instructions du système pour suivre le bon déroulement de la partie.
 
