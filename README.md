@@ -2,7 +2,7 @@
 
 # DESCRIPTION :
 
--Ceci est un jeu du pendu. Il s'agit d'un jeu dans lequel le système choisit un mot au hasard, l'utilisateur doit quant à lui trouver ce mot.
+- Ceci est un jeu du pendu. Il s'agit d'un jeu dans lequel le système choisit un mot au hasard, l'utilisateur doit quant à lui trouver ce mot.
 Vous devez choisir une lettre, si celle-ci est présente dans le mot, chaque itération de cette lettre dans le mot sera affichée à sa position exacte.
 Cependant, si la lettre choisie n'est pas présente dans le mot, un dessin commencera à se former. Il s'agit d'un pendu.
 Quand le pendu est totalement terminé, alors vous avez perdu. A l'inverse, si vous parvenez à trouver le bon mot avant qu'il soit terminé, vous gagnez la partie.
@@ -20,7 +20,7 @@ Quand le pendu est totalement terminé, alors vous avez perdu. A l'inverse, si v
 
 # Fonctionnement :
 
--Vous aurez d'abord accès à un menu dans lequel vous choisirez si vous souhaitez afficher les statistiques des parties précédentes, ou jouer.
+- Vous aurez d'abord accès à un menu dans lequel vous choisirez si vous souhaitez afficher les statistiques des parties précédentes, ou jouer.
 -Au départ, choisissez la langue dans laquelle vous souhaitez jouer (Français, Espagnol, Anglais, Allemand).
 -A chaque tour, l'état du jeu est affiché : l'état du pendu, l'état du mot, les lettres déjà utilisées.
 -A chaque tour, une lettre vous ait demandé, entrez en une, si elle est dans le mot, elle y sera indiqué, sinon le pendu se formera.
