@@ -1,5 +1,7 @@
 # PENDU
 
+Premier projet scolaire de première année de licence
+
 # DESCRIPTION :
 
 - Ceci est un jeu du pendu. Il s'agit d'un jeu dans lequel le système choisit un mot au hasard, l'utilisateur doit quant à lui trouver ce mot.
